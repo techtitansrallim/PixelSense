@@ -10,5 +10,5 @@ This project analyses videos of artefacts and decides whether they are real or f
   
 # Requirements
 - streamlit
-- opencv-python
+- opencv-python-headless
 - numpy
