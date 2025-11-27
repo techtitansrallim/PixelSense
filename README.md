@@ -8,7 +8,3 @@ This project analyses videos of artefacts and decides whether they are real or f
 ## Tools Used
 - Python
   
-# Requirements
-- streamlit
-- opencv-python-headless
-- numpy
